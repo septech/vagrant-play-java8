@@ -1,0 +1,1 @@
+# vagrant-play-java8
